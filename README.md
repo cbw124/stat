@@ -1,2 +1,2 @@
-# pcatt
-Predicate Calculus for Algebraic Type Theory
+# stat
+Structural types for algebraic theories
